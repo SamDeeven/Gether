@@ -1,0 +1,9 @@
+.inputfields{
+ text-align: center;
+}
+li {
+list-style: none;
+}
+input{
+    font-size: medium;
+}
